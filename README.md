@@ -7,7 +7,7 @@ However, I sometimes try to make something that is intended
 to have a more practical use ([Science Tex](https://github.com/xmamalou/science-tex), [Dragonfly](https://github.com/xmamalou/dragonfly)).
 My current area of interest when it comes to programming is graphics.
 
-Other interests include art and 3D modelling.
+Other interests include art, 3D modelling, world building and linguistics.
 
 <!---
 xmamalou/xmamalou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

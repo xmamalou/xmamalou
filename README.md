@@ -5,7 +5,7 @@ computers, programming and games. I know how to program in C, C++ and Haskell. I
 I am mostly interested in programming stuff for fun so I don't tend to make very big or concise projects. 
 However, I sometimes try to make something that is intended 
 to have a more practical use ([Science Tex](https://github.com/xmamalou/science-tex), [Dragonfly](https://github.com/xmamalou/dragonfly)).
-My current area of interest when it comes to programming is graphics.
+My current area of interest when it comes to programming is graphics and GPU programming.
 
 Other interests include art, 3D modelling, world building and linguistics.
 

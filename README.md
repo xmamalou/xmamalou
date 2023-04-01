@@ -1,6 +1,6 @@
-Knows how to use Haskell, C/C++ and LaTeX. Probably.
+Knows how to use Haskell, C/C++ and LaTeX. 
 
-Likes the weird and abstract.
+Likes stuff that are weird abstract, like math and physics.
 
 Proffessionally unprofessional.
 <!---

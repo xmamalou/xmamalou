@@ -1,4 +1,4 @@
-Knows how to use Haskell, C/C++ and LaTeX. 
+Knows how to use Haskell, C and LaTeX. 
 
 Likes stuff that are weird abstract, like math and physics.
 

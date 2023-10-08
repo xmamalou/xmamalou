@@ -1,7 +1,7 @@
 Hello from 🇬🇷 Greece!
 
 I am:
-- Knowledgeable in Haskell, C, Bash and LaTeX. I also know a bit of CSS and HTML, but I am not a fan.
+- Knowledgeable in Haskell, C, Bash and LaTeX. I have started learning C#, which I find fun. I also know a bit of CSS and HTML, but I am not a fan.
 - A physics undergrad and math enthusiast
 - Interested in low level, parallel and functional programming, in GPU programming, in computer graphics and numerical analysis
 - Professionally unprofessional

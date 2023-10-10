@@ -5,6 +5,7 @@ I am:
 - A physics undergrad and math enthusiast
 - Interested in low level, parallel and functional programming, in GPU programming, in computer graphics and numerical analysis
 - Professionally unprofessional
+- Also known as Mantis
 
 I mostly use C and Haskell for either my personal projects or projects related to my field of studies. My environment of choice is Windows (11), but I also know my way around Linux.
 

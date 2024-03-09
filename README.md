@@ -1,7 +1,7 @@
 Hello from 🇬🇷 Greece!
 
 I am:
-- Knowledgeable in Haskell, C, C++, Bash and LaTeX. I also have tidbits of C# knowledge, which I find fun. Also knowledgeable in Python, but I am not a fan.
+- Knowledgeable in a variety of languages, including but not limited to: C, C++, Haskell, C#, LaTeX, and Python. Favourite language is C++
 - Math enthusiast; Knowledgeable in physics
 - Interested in low level, parallel and functional programming, in GPU programming, in computer graphics and numerical analysis
 - Professionally unprofessional

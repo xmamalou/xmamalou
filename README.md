@@ -2,7 +2,7 @@ Hello from 🇬🇷 Greece!
 
 I am:
 - Knowledgeable in Haskell, C, C++, Bash and LaTeX. I also have tidbits of C# knowledge, which I find fun. Also knowledgeable in Python, but I am not a fan.
-- A physics undergrad and math enthusiast
+- Math enthusiast; Knowledgeable in physics
 - Interested in low level, parallel and functional programming, in GPU programming, in computer graphics and numerical analysis
 - Professionally unprofessional
 - Also known as Mantis

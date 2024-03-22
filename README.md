@@ -11,7 +11,7 @@ I mostly use C/C++, Haskell and Python for either my personal projects or projec
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xmamalou&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmamalou&layout=donut&hide=jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmamalou&layout=donut&hide=jupyter-notebook&exclude_repo=astrolab-team-exercise)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 xmamalou/xmamalou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

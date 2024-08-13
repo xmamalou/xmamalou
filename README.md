@@ -1,7 +1,7 @@
 Hello from 🇬🇷 Greece!
 
 I am:
-- Knowledgeable in a variety of languages, including but not limited to: C, C++, Haskell, C#, LaTeX, and Python. Favourite language is C++.
+- Knowledgeable in a variety of languages, including but not limited to: C, C++, Zig, Haskell, C#, LaTeX, and Python. Favourite languages are C++ and Zig.
 - Math enthusiast; Knowledgeable in physics.
 - Interested in low level, parallel and functional programming, in GPU programming, in computer graphics, numerical analysis and more.
 - Professionally unprofessional.

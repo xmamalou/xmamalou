@@ -7,7 +7,7 @@ I am:
 - Professionally unprofessional.
 - Also known as Mantis.
 
-I mostly use C/C++, Haskell and Python for either my personal projects or projects related to my field of studies. My environment of choice is Windows (11), but I also know my way around Linux.
+I usually use C++ and Python for either my personal projects or projects related to my field of studies, although nowadays I have started using Zig as well. My environment of choice is Windows (11), but I also know my way around Linux.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xmamalou&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 

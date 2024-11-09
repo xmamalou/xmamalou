@@ -1,13 +1,13 @@
 Hello from 🇬🇷 Greece!
 
 I am:
+- A Computer Engineering Postgrad Student and a Physics graduate from NKUA.
 - Knowledgeable in a variety of languages, including but not limited to: C, C++, Zig, Haskell, C#, LaTeX, and Python. Favourite languages are C++ and Zig.
-- Math enthusiast; Knowledgeable in physics.
-- Interested in low level, parallel and functional programming, in GPU programming, in computer graphics, numerical analysis and more.
+- Interested in low level, parallel and functional programming, in GPU programming, in computer graphics, numerical analysis, geometry, and more.
 - Professional amateur.
-- Also known as Mantis.
+- Also known as Mantis (or CyberMantid). See my personal website (https://cyber-mantid.xyz)[here]!
 
-I usually use C++ and Python for either my personal projects or projects related to my field of studies, although nowadays I have started using Zig as well. My environment of choice is Windows (11), but I also know my way around Linux.
+My environment of choice is Windows (11), but I also know my way around Linux.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xmamalou&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 

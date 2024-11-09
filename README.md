@@ -4,7 +4,7 @@ I am:
 - Knowledgeable in a variety of languages, including but not limited to: C, C++, Zig, Haskell, C#, LaTeX, and Python. Favourite languages are C++ and Zig.
 - Math enthusiast; Knowledgeable in physics.
 - Interested in low level, parallel and functional programming, in GPU programming, in computer graphics, numerical analysis and more.
-- Professionally unprofessional.
+- Professional amateur.
 - Also known as Mantis.
 
 I usually use C++ and Python for either my personal projects or projects related to my field of studies, although nowadays I have started using Zig as well. My environment of choice is Windows (11), but I also know my way around Linux.

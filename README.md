@@ -7,7 +7,8 @@ I am:
 - Professional amateur.
 - Also known as Mantis (or CyberMantid). See my personal website [here](https://cyber-mantid.xyz)!
 
-My environment of choice is Windows (11), but I also know my way around Linux.
+~~My environment of choice is Windows (11), but I also know my way around Linux.~~
+After a one and a half-ish hiatus, I am now back to Linux! Goodbye Windows!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xmamalou&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 

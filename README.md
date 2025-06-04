@@ -2,6 +2,7 @@ Hello from 🇬🇷 Greece!
 
 I am:
 - A Computer Engineering Postgrad Student and a Physics graduate from NKUA.
+- Employed as a Working Student at Nokia, for softare development in Nokia's TAS!
 - Knowledgeable in a variety of languages, including but not limited to: C, C++, Zig, Haskell, C#, LaTeX, and Python. Favourite languages are C++ and Zig.
 - Interested in low level, parallel and functional programming, in GPU programming, in computer graphics, numerical analysis, geometry, and more.
 - Professional amateur.

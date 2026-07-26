@@ -1,6 +1,7 @@
 Hello from 🇬🇷 Greece!
 
 I am:
+- A Digital Design Engineer at ISD S.A., Greece
 - A Computer Engineering Postgrad Student and a Physics graduate from NKUA.
 - Knowledgeable in a variety of languages, including but not limited to: C, C++, Zig, Haskell, Lisp, LaTeX, and Python. Favourite languages are Lisp and Zig.
 - Interested in low level, parallel and functional programming, in GPU programming, in computer graphics, numerical analysis, geometry, and more.
